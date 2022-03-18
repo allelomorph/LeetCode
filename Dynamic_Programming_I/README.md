@@ -1,7 +1,7 @@
 # Dynamic_Programming_I
 
 ## Description
-A selection of accepted solutions submitted to <leetcode.com> over the course of working through their first DP study plan.
+A selection of accepted solutions submitted to [leetcode.com](https://leetcode.com) over the course of working through their first DP study plan.
 
 ## Environment
 All solutions primarily subject to LeetCode's grading environment, but also checked locally under the following conditions:
@@ -16,10 +16,10 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
 
 ### Day 1
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-  - [509_Fibonacci_Number_a1.cc](509_Fibonacci_Number_a1.cc) [results](https://leetcode.com/submissions/detail/660154130/)
-  - [509_Fibonacci_Number_a2.cc](509_Fibonacci_Number_a2.cc) [results](https://leetcode.com/submissions/detail/660163386/)
+  - [509_Fibonacci_Number_a1.cc](509_Fibonacci_Number_a1.cc) ([results](https://leetcode.com/submissions/detail/660154130/))
+  - [509_Fibonacci_Number_a2.cc](509_Fibonacci_Number_a2.cc) ([results](https://leetcode.com/submissions/detail/660163386/))
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
-  - [1137_Nth_Tribonacci_Number_a1.cc](./1137_Nth_Tribonacci_Number_a1.cc) [results](https://leetcode.com/submissions/detail/660188333/)
+  - [1137_Nth_Tribonacci_Number_a1.cc](./1137_Nth_Tribonacci_Number_a1.cc) ([results](https://leetcode.com/submissions/detail/660188333/))
 
 ### Day 2
 

@@ -1,7 +1,7 @@
 # LeetCode
 
 ## Description
-A selection of accepted solutions submitted to <leetcode.com> as part of ongoing coding interview practice.
+A selection of accepted solutions submitted to [leetcode.com](https://leetcode.com) as part of ongoing coding interview practice.
 
 ## Environment
 All solutions subject primarily to LeetCode's grading environment, but also checked locally under the following conditions:
