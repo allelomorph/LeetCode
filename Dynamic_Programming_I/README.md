@@ -25,7 +25,7 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
   - [70_Climbing_Stairs_a1.cc](./70_Climbing_Stairs_a1.cc) ([results](https://leetcode.com/submissions/detail/661411713/))
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
- - [746_Min_Cost_Climbing_Stairs_a2.cc](./746_Min_Cost_Climbing_Stairs_a2.cc) ([results](https://leetcode.com/submissions/detail/662322750/))
+  - [746_Min_Cost_Climbing_Stairs_a2.cc](./746_Min_Cost_Climbing_Stairs_a2.cc) ([results](https://leetcode.com/submissions/detail/662322750/))
 
 ### Day 3
 
