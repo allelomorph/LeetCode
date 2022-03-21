@@ -28,6 +28,9 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
   - [746_Min_Cost_Climbing_Stairs_a2.cc](./746_Min_Cost_Climbing_Stairs_a2.cc) ([results](https://leetcode.com/submissions/detail/662322750/))
 
 ### Day 3
+- [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+  - [740_Delete_and_earn_a1.cc](./740_Delete_and_earn_a1.cc) ([results](https://leetcode.com/submissions/detail/662736567/))
+  - [740_Delete_and_earn_a2.cc](./740_Delete_and_earn_a2.cc) ([results](https://leetcode.com/submissions/detail/662741646/))
 
 ### Day 4
 
