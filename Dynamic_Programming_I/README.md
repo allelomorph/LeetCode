@@ -33,6 +33,8 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
   - [740_Delete_and_earn_a2.cc](./740_Delete_and_earn_a2.cc) ([results](https://leetcode.com/submissions/detail/662741646/))
 
 ### Day 4
+- [55. Jump Game](https://leetcode.com/problems/jump-game/)
+  - [55_Jump_Game_a1.cc](./55_Jump_Game_a1.cc) ([results](https://leetcode.com/submissions/detail/664702001/))
 
 ### Day 5
 
