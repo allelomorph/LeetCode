@@ -35,6 +35,9 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
 ### Day 4
 - [55. Jump Game](https://leetcode.com/problems/jump-game/)
   - [55_Jump_Game_a4.cc](./55_Jump_Game_a4.cc) ([results](https://leetcode.com/submissions/detail/664702001/))
+- [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  - [45_Jump_Game_II_a2.cc](./45_Jump_Game_II_a2.cc) ([results](https://leetcode.com/submissions/detail/665371498/))
+  - [45_Jump_Game_II_a3.cc](./45_Jump_Game_II_a3.cc) ([results](https://leetcode.com/submissions/detail/666028718/))
 
 ### Day 5
 
