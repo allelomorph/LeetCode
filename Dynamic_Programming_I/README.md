@@ -29,12 +29,12 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
 
 ### Day 3
 - [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
-  - [740_Delete_and_earn_a1.cc](./740_Delete_and_earn_a1.cc) ([results](https://leetcode.com/submissions/detail/662736567/))
-  - [740_Delete_and_earn_a2.cc](./740_Delete_and_earn_a2.cc) ([results](https://leetcode.com/submissions/detail/662741646/))
+  - [740_Delete_and_Earn_a1.cc](./740_Delete_and_Earn_a1.cc) ([results](https://leetcode.com/submissions/detail/662736567/))
+  - [740_Delete_and_Earn_a2.cc](./740_Delete_and_Earn_a2.cc) ([results](https://leetcode.com/submissions/detail/662741646/))
 
 ### Day 4
 - [55. Jump Game](https://leetcode.com/problems/jump-game/)
-  - [55_Jump_Game_a1.cc](./55_Jump_Game_a1.cc) ([results](https://leetcode.com/submissions/detail/664702001/))
+  - [55_Jump_Game_a4.cc](./55_Jump_Game_a4.cc) ([results](https://leetcode.com/submissions/detail/664702001/))
 
 ### Day 5
 
