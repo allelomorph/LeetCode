@@ -40,6 +40,9 @@ All solutions primarily subject to LeetCode's grading environment, but also chec
   - [45_Jump_Game_II_a3.cc](./45_Jump_Game_II_a3.cc) ([results](https://leetcode.com/submissions/detail/666028718/))
 
 ### Day 5
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [53_Maximum_Subarray_a1.cc](./53_Maximum_Subarray_a1.cc) ([results](https://leetcode.com/submissions/detail/666486338/))
+  - [53_Maximum_Subarray_a5.cc](./53_Maximum_Subarray_a5.cc) ([results](https://leetcode.com/submissions/detail/666509501/))
 
 ### Day 6
 
