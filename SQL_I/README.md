@@ -9,6 +9,11 @@ All solutions only tested via [LeetCode's grading environment](https://support.l
 ### MySQL
 - MySQL 8.0 (at time of completion)
 
+## Resources
+- [Official MySQL docs](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
+- [mysqltutorial.org](https://www.mysqltutorial.org/)
+- [SQL joins Venn diagram](https://bhaumik89.blogspot.com/2012/10/venn-diagram-visual-representation-of_7.html)
+
 ---
 
 ### Day 1: Select
