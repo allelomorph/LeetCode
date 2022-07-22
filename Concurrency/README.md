@@ -23,6 +23,9 @@ All solutions primarily subject to [LeetCode's grading environment](https://supp
 ---
 
 - [1114. Print in Order](https://leetcode.com/problems/print-in-order) Easy
+  - [1114_Print_in_Order_a2.cc](1114_Print_in_Order_a2.cc)
+  - [1114_Print_in_Order_a3.c](1114_Print_in_Order_a3.c)
+
 - [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) Medium
 - [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) Medium
 - [1117. Building H2O](https://leetcode.com/problems/building-h2o) Medium
