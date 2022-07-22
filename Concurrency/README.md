@@ -22,12 +22,12 @@ All solutions primarily subject to [LeetCode's grading environment](https://supp
 
 ---
 
-- [1114. Print in Order]() Easy
-- [1115. Print FooBar Alternately]() Medium
-- [1116. Print Zero Even Odd]() Medium
-- [1117. Building H2O]() Medium
-- [1188. Design Bounded Blocking Queue]() Medium
-- [1195. Fizz Buzz Multithreaded]() Medium
-- [1226. The Dining Philosophers]() Medium
-- [1242. Web Crawler Multithreaded]() Medium
-- [1279. Traffic Light Controlled Intersection]() Easy
+- [1114. Print in Order](https://leetcode.com/problems/print-in-order) Easy
+- [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) Medium
+- [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) Medium
+- [1117. Building H2O](https://leetcode.com/problems/building-h2o) Medium
+- [1188. Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue) Medium
+- [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) Medium
+- [1226. The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) Medium
+- [1242. Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded) Medium
+- [1279. Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection) Easy
