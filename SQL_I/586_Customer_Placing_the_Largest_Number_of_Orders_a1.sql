@@ -1,5 +1,7 @@
 -- Time to complete: 20 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - MAX() in WHERE clause of same query:
 --     - https://stackoverflow.com/a/22538476

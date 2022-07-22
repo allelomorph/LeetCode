@@ -1,5 +1,7 @@
 -- Time to complete: 20 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - GROUP_CONCAT()
 --   - https://mathworld.wolfram.com/LexicographicOrder.html

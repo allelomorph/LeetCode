@@ -1,5 +1,7 @@
 -- Time to complete: 30 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 
 ---- Begin solution, results at https://leetcode.com/submissions/detail/752413818/

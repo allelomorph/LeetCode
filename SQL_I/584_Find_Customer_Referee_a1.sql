@@ -1,5 +1,7 @@
 -- Time to complete: 5 min
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 
 -- Note: Poor speed performance, at only 7.32 percentile - how to improve?

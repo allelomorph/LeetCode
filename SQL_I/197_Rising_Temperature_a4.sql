@@ -1,5 +1,7 @@
 -- Time to complete: 1 hr
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - date functions:
 --     - https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html

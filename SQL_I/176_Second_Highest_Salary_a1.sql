@@ -1,5 +1,7 @@
 -- Time to complete: 2 hrs
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - LIMIT:
 --     - https://dev.mysql.com/doc/refman/8.0/en/limit-optimization.html

@@ -1,5 +1,7 @@
 -- Time to complete: 20 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - CTEs
 --     - https://www.mysqltutorial.org/mysql-cte/

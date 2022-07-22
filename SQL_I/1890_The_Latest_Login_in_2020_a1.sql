@@ -1,5 +1,7 @@
 -- Time to complete: 5 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - YEAR()
 

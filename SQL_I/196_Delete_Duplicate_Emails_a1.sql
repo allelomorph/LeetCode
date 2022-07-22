@@ -1,5 +1,7 @@
 -- Time to complete: 30 mins (all attempts)
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --  - https://www.databasestar.com/sql-remove-duplicates/
 

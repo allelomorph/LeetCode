@@ -1,5 +1,7 @@
 -- Time to complete: 15 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --  - UPDATE / SET
 --  SQL uses `=` for evaluation as well as assignment

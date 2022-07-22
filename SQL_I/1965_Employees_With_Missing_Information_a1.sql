@@ -1,5 +1,7 @@
 -- Time to complete: 15 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - UNION (DISTINCT), UNION ALL
 --   - no FULL OUTER JOIN in MySQL: https://stackoverflow.com/a/4796911

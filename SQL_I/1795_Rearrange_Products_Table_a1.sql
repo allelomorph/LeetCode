@@ -1,5 +1,7 @@
 -- Time to complete: 15 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 
 -- Note: Is there a way to generalize this instead of rewriting the query for

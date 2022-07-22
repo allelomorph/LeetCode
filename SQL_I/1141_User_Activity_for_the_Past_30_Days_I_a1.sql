@@ -1,5 +1,7 @@
 -- Time to complete: 10 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - DATE(), BETWEEN for date range:
 --     - https://stackoverflow.com/a/3652016

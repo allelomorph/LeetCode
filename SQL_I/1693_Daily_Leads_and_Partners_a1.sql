@@ -1,5 +1,7 @@
 -- Time to complete: 10 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 
 -- Note: slow speed performance, and theme of the day is "Functions." Is there

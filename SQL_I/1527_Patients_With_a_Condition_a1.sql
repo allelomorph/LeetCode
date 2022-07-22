@@ -1,5 +1,7 @@
 -- Time to complete: 25 mins
 
+-- Treated as: study problem (research allowed)
+
 -- Needed to research:
 --   - REGEXP
 --   - regex non-capture groups
