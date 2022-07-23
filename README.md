@@ -30,10 +30,8 @@ All solutions subject primarily to [LeetCode's grading environment](https://supp
 
 ### [SQL I](./SQL_I/)
 
-## Topics
+## Skills (Tags)
 
 ### [Concurrency](./Concurrency/)
 
 ### [Shell](./Shell/)
-
-## Skills (Tags)
