@@ -97,7 +97,6 @@ private:
 int main() {
     FooBar solution(5);
 
-    // see Notes section above for thread creation with member functions
     using tp_t = std::tuple<void (FooBar::*)(std::function<void ()>),
                         std::function<void ()>>;
     tp_t thread_params[2] {
