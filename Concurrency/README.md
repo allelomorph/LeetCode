@@ -25,12 +25,18 @@ All solutions primarily subject to [LeetCode's grading environment](https://supp
 - [1114. Print in Order](https://leetcode.com/problems/print-in-order) Easy
   - [1114_Print_in_Order_a2.cc](1114_Print_in_Order_a2.cc)
   - [1114_Print_in_Order_a3.c](1114_Print_in_Order_a3.c)
-
 - [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) Medium
+  - [1115_Print_FooBar_Alternately_a2.cc](./1115_Print_FooBar_Alternately_a2.cc)
+  - [1115_Print_FooBar_Alternately_a3.c](./1115_Print_FooBar_Alternately_a3.c)
 - [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) Medium
+  - [1116_Print_Zero_Even_Odd_a1.cc](./1116_Print_Zero_Even_Odd_a1.cc)
+  - [1116_Print_Zero_Even_Odd_a2.c](./1116_Print_Zero_Even_Odd_a2.c)
 - [1117. Building H2O](https://leetcode.com/problems/building-h2o) Medium
+  - [1117_Building_H2O_a1.cc](./1117_Building_H2O_a1.cc)
 - [1188. Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue) Medium
 - [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) Medium
+  - [1195_Fizz_Buzz_Multithreaded_a1.cc](./1195_Fizz_Buzz_Multithreaded_a1.cc)
 - [1226. The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) Medium
+  - [1226_The_Dining_Philosophers_a1.cc](./1226_The_Dining_Philosophers_a1.cc)
 - [1242. Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded) Medium
 - [1279. Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection) Easy
