@@ -35,3 +35,5 @@ All solutions subject primarily to [LeetCode's grading environment](https://supp
 ### [Concurrency](./Concurrency/)
 
 ### [Shell](./Shell/)
+
+### [Trie](./Trie/)
