@@ -12,6 +12,9 @@ All solutions primarily subject to [LeetCode's grading environment](https://supp
 ### Bash scripts
 - GNU bash, version 5.0.17(1)-release (x86_64-pc-linux-gnu)
 
+## Resources
+- [Disambiguation of parentheses/brackets/braces in bash](https://stackoverflow.com/questions/2188199/how-to-use-double-or-single-brackets-parentheses-curly-braces)
+
 ---
 
 - [192. Word Frequency](https://leetcode.com/problems/word-frequency) Medium
@@ -19,5 +22,7 @@ All solutions primarily subject to [LeetCode's grading environment](https://supp
 - [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) Easy
   - [193_Valid_Phone_Numbers_a3.sh](./193_Valid_Phone_Numbers_a3.sh)
 - [194. Transpose File](https://leetcode.com/problems/transpose-file) Medium
+  - [194_Transpose_File_a1.sh](./194_Transpose_File_a1.sh)
+  - [194_Transpose_File_a2.sh](./194_Transpose_File_a2.sh)
 - [195. Tenth Line](https://leetcode.com/problems/tenth-line) Easy
   - [195_Tenth_Line_a1.sh](./195_Tenth_Line_a1.sh)
