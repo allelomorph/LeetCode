@@ -21,29 +21,34 @@ std::ostream &operator<<(std::ostream &os, const std::vector<T> &v) {
 }
 
 
+// using failbit instead of exceptions to mimic STL handling of failed parsing
 template<typename T>
 std::istream &operator>>(std::istream &is, std::vector<T> &v) {
     is >> std::ws;  // ensure leading whitespace skipped
+    if (is.get() != '[') {
+        is.setstate(std::ios_base::failbit);  // expected '[' at start
+        return is;
+    }
     std::vector<T> new_v;
-    if (is.peek() != '[')
-        throw std::invalid_argument("expected '[' at start of vector");
-    is.get();  // consume '['
     T temp;
     for (char peek(is.peek()); is.good() && peek != ']';) {
         is >> std::ws;
         is >> temp;
-        if (!is.good() && !is.eof())
-            throw std::invalid_argument("could not read element from stream");
+        if (is.fail() && !is.eof())
+            return is;  // could not read element from stream
         new_v.emplace_back(temp);
         is >> std::ws;
         peek = is.peek();
-        if (is.eof() || (peek != ',' && peek != ']'))
-            throw std::invalid_argument("expected ',' or ']' after element");
+        if (is.eof() || (peek != ',' && peek != ']')) {
+            is.setstate(std::ios_base::failbit);  // expected ',' or ']' after element
+            return is;
+        }
         if (peek == ',')
             is.get();
     }
-    is.get();
-    v = std::move(new_v);
+    is.get();  // consume ']'
+    if (!is.fail() || is.eof())
+        v = std::move(new_v);
     return is;
 }
 
