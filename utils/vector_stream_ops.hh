@@ -29,10 +29,10 @@ std::istream &operator>>(std::istream &is, std::vector<T> &v) {
         is.setstate(std::ios_base::failbit);  // expected '[' at start
         return is;
     }
+    is >> std::ws;
     std::vector<T> new_v;
     T temp;
     for (char peek(is.peek()); is.good() && peek != ']';) {
-        is >> std::ws;
         is >> temp;
         if (is.fail() && !is.eof())
             return is;  // could not read element from stream
@@ -45,6 +45,7 @@ std::istream &operator>>(std::istream &is, std::vector<T> &v) {
         }
         if (peek == ',')
             is.get();
+        is >> std::ws;
     }
     is.get();  // consume ']'
     if (!is.fail() || is.eof())
